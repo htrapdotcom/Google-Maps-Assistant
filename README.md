@@ -65,8 +65,8 @@ This mini project demonstrates the creation of an AI assistant using the OpenAI 
 
 ## Author
 
-\Parth
+Parth
 
 ## License
 
-\MIT License
+MIT License
